@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Gunba" APIVersion="9" Name="EntSpy" Description="Locate entities relevant to search results and convey that information to the player using a vector.">
+	<Script Name="libs/GeminiLocale/GeminiLocale.lua" /> 
+	<Script Name="locale/enUS.lua" /> 
+	<Script Name="locale/deDE.lua" /> 
+	<Script Name="locale/frFR.lua" /> 
+	<Script Name="EntSpy.lua"/>
+    <Form Name="EntSpy.xml"/>
+</Addon>
